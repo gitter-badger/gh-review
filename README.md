@@ -48,7 +48,7 @@ $ bin/gh-review -h
 or via docker (without installing anything)
 
 ```shell
-$ docker run purplebooth/gh-review:$VERSION
+$ docker run -i quay.io/purplebooth/gh-review:$VERSION
 
   Usage: gh-review [options] <organisationName>
 
